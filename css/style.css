@@ -26,11 +26,7 @@ transition:0.5s;
 color:#fff;
 cursor: pointer;
 }
-    
-.footer .row ul{
-width:100%;
-}
-    
+  
 .footer .row ul li{
 display:inline-block;
 margin:0px 30px;
